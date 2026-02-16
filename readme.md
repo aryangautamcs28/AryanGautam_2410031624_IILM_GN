@@ -13,10 +13,11 @@ Given a gene sequence, predict whether it is resistant or not resistant to antib
 
 ## Dataset
 Dataset sourced from Kaggle:
-[Add Kaggle Link Here]
+https://www.kaggle.com/datasets/drscarlat/dzd-data
 
 ## How to Run
 1. Install requirements
 2. Load dataset
 3. Run the notebook
 4. Use demo_prediction() to test input sequences
+
